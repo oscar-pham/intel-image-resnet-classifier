@@ -106,6 +106,6 @@ plt.legend(frameon=False)
 plt.show()
 ```
 <p align="center">
-  <img src="graph.PNG" width="60%" />
+  <img src="graph.png" width="60%" />
 </p>
 <p align="center"><em>Model Performance</em></p>
