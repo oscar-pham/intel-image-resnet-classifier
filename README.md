@@ -3,17 +3,17 @@
 This project uses PyTorch and torchvision to classify images from the Intel Image Classification dataset. A pre-trained Wide ResNet-50-2 model is fine-tuned for this task. The pipeline includes data preprocessing, model training, evaluation, and prediction, with results visualized for performance assessment.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Prediction](#prediction)
-- [Performance](#performance)
-- [Visualization](#visualization)
-- [Contributing](#contributing)
-- [License](#license)
+1. [Installation](#installation)
+2. [Dataset](#dataset)
+3. [Usage](#usage)
+4. [Model Architecture](#model-architecture)
+5. [Training](#training)
+6. [Evaluation](#evaluation)
+7. [Prediction](#prediction)
+8. [Performance](#performance)
+9. [Visualization](#visualization)
+10. [Contributing](#contributing)
+11. [License](#license)
 
 ## Installation
 
